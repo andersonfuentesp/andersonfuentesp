@@ -17,7 +17,8 @@ Talk to me about
 - Front-end development using **HTML, CSS, JavaScript, tkinter, Jframe**
 - Backend development using **Python, MySQL, PHP, Java**
 - Creating big and small projects using **Data visualization libraries (Python)**
-- Tool development with **Visual Basic for Applications - VBA** 
+- Tool development with **Visual Basic for Applications - VBA**
+- Handling of Javascript frameworks
 - Making for **Relational Database Management Systems**
 - Artificial Intelligence **OpenCV**
 - Solving Data structure and algorithm questions in **Python, Java, PHP**
