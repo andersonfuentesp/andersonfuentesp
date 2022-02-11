@@ -14,12 +14,13 @@ I am a person very focused on objectives, responsible in all aspects, I develop 
 
 ## ⚡ Technologies
 Talk to me about
-- Artificial Intelligence **TensorFlow, Pytorch, OpenCV**
 - Front-end development using **HTML, CSS, JavaScript, tkinter, Jframe**
 - Backend development using **Python, MySQL, PHP, Java**
 - Creating big and small projects using **Data visualization libraries (Python)**
+- Tool development with **Visual Basic for Applications - VBA** 
 - Making for **Relational Database Management Systems**
-- Solving Data structure and algorithm questions in **Python**
+- Artificial Intelligence **OpenCV**
+- Solving Data structure and algorithm questions in **Python, Java, PHP**
 
 
 ## 📈 Github Stats
