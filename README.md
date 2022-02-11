@@ -1,4 +1,4 @@
-<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center"> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/andersonfuentesp) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/andersonfuentes/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.fuentes@ieee.org)
@@ -15,11 +15,10 @@ I am a person very focused on objectives, responsible in all aspects, I develop 
 ## ⚡ Technologies
 Talk to me about
 - Artificial Intelligence **TensorFlow, Pytorch, OpenCV**
-- Front-end development using **HTML, CSS, Streamlit, tkinter, dash**
-- Backend development using **Mongo,Node,Python**
-- Creating big and small projects using **Computer Vision (Python, C++)**
+- Front-end development using **HTML, CSS, JavaScript, tkinter, Jframe**
+- Backend development using **Python, MySQL, PHP, Java**
+- Creating big and small projects using **Data visualization libraries (Python)**
 - Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **Python**
 
 
