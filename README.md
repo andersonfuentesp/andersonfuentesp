@@ -5,11 +5,12 @@
  
 I'm Anderson Fuentes 🧔
 
-I'm a Machine Learning Engineer with 5 years of experience in the creation of computer vision models, machine learning algorithms, testing and deploying models in production using tools like TensorFlow, Docker, OpenCV, Git, Kubernetes, and more. 🚀...
-I have been a software developer, AI developer, AI Leader, and CTO in different companies which has given me a vision of creating AI products with a customer focus 🌎 Besides, I’m one of the 10 TensorFlow certified Developers for Google in Colombia, author of courses as  “Curso Profesional de Redes neuronal con TensorFlow”, and “Curso Profesional de computer  vision con TensorFlow” in Platzi and winner of the hackathon Covid19 and Innovate2019 with Ecopetrol Colombia 🌟
+IT Trainee at Ernst & Young, member of the IEEE student branch of the Universidad Autónoma del Perú, member of the Digital Literacy program of the Peruvian College of Engineers, member of the MakerHack community of the Universidad Autónoma del Perú and of the Systems Engineering career.
+
+I am a person very focused on objectives, responsible in all aspects, I develop projects having clear goals and always defining the routes. With experience in leading work teams, imagination and initiative to develop new ideas and with ease to make decisions. Great capacity for work, integration, flexibility, dynamism and ability to face challenging and overcoming situations. Entrepreneur, with initiative and capacity for organization and management. 🌟
 
 ## 👯 Communities
-- TensorFlow Community Colombia - Core Team (2021-♾)
+- Code Impact - Perú (2021-♾)
 
 ## ⚡ Technologies
 Talk to me about
