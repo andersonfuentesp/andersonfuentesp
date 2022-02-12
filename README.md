@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/andersonfuentesp) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/andersonfuentes/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.fuentes@ieee.org)
  
-I'm Anderson Fuentes 🧔
+I'm Anderson Fuentes 🧑
 
 IT Trainee at Ernst & Young, member of the IEEE student branch of the Universidad Autónoma del Perú, member of the Digital Literacy program of the Peruvian College of Engineers, member of the MakerHack community of the Universidad Autónoma del Perú and of the Systems Engineering career.
 
