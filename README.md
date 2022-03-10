@@ -5,7 +5,7 @@
  
 I'm Anderson Fuentes 🧑
 
-IT Trainee at Ernst & Young, member of the IEEE student branch of the Universidad Autónoma del Perú, member of the Digital Literacy program of the Peruvian College of Engineers, member of the MakerHack community of the Universidad Autónoma del Perú and of the Systems Engineering career.
+IT Trainee at Ernst & Young, President of the IEEE student branch of the Universidad Autónoma del Perú, member of the Digital Literacy program of the Peruvian College of Engineers, member of the MakerHack community of the Universidad Autónoma del Perú and of the Systems Engineering career.
 
 I am a person very focused on objectives, responsible in all aspects, I develop projects having clear goals and always defining the routes. With experience in leading work teams, imagination and initiative to develop new ideas and with ease to make decisions. Great capacity for work, integration, flexibility, dynamism and ability to face challenging and overcoming situations. Entrepreneur, with initiative and capacity for organization and management. 🌟
 
