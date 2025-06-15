@@ -1,32 +1,59 @@
-<h1 align="center"> Hello There</h1>
+<h1 align="center">👋 Hello There, I'm Anderson Fuentes</h1>
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/andersonfuentesp) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/andersonfuentes/) 
- [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.fuentes@ieee.org)
- 
-I'm Anderson Fuentes 🧑
+<p align="center">
+  <a href="https://github.com/andersonfuentesp">
+    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/andersonfuentes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anderson.fuentes@ieee.org">
+    <img src="https://img.shields.io/badge/Email-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Software Developer at Ernst & Young, President of the IEEE student branch of the Universidad Autónoma del Perú, member of the Digital Literacy program of the Peruvian College of Engineers, member of the MakerHack community of the Universidad Autónoma del Perú and of the Systems Engineering career.
+---
 
-I am a person very focused on objectives, responsible in all aspects, I develop projects having clear goals and always defining the routes. With experience in leading work teams, imagination and initiative to develop new ideas and with ease to make decisions. Great capacity for work, integration, flexibility, dynamism and ability to face challenging and overcoming situations. Entrepreneur, with initiative and capacity for organization and management. 🌟
+🎯 **About Me**  
+I'm a Software Developer and technology enthusiast passionate about digital transformation and smart automation. I’ve led and contributed to projects involving full-stack development, automation tools, and AI integrations. I'm also a former IEEE student branch president and actively involved in tech education initiatives.
 
+I enjoy solving complex problems, working on scalable software projects, and exploring emerging technologies.
 
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, CSS, JavaScript, tkinter, Jframe**
-- Backend development using **Python, MySQL, PHP, Java**
-- Creating big and small projects using **Data visualization libraries (Python)**
-- Tool development with **Visual Basic for Applications - VBA**
-- Handling of Javascript frameworks
-- Making for **Relational Database Management Systems**
-- Artificial Intelligence **OpenCV**
-- Solving Data structure and algorithm questions in **Python, Java, PHP**
+---
 
+## 🛠️ Tech Stack & Skills
 
-## 📈 Github Stats
-<a href="https://github.com/andersonfuentesp/andersonfuentesp">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=andersonfuentesp&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/andersonfuentesp/andersonfuentesp">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfuentesp&theme=dark&hide=html" />
-</a>
+- **Frontend**: HTML, CSS, JavaScript, Tkinter, Java Swing
+- **Backend**: Python, PHP, Java, MySQL, SQLite
+- **Frameworks**: Laravel, Flask, Django, Spring Boot
+- **Data & AI**: Pandas, NumPy, Matplotlib, OpenCV, scikit-learn
+- **Automation Tools**: VBA, Selenium, UIPath (concepts)
+- **Databases**: MySQL, PostgreSQL, SQL Server
+- **Version Control**: Git, GitHub
+- **Other Tools**: Visual Studio, Jupyter, Postman
+
+---
+
+## 🚀 Projects & Areas of Focus
+
+- 🔹 Development of automation tools for process optimization  
+- 🔹 Data analysis & visualization platforms  
+- 🔹 Backend APIs and system integrations  
+- 🔹 Intelligent document processing and classification  
+- 🔹 Internal platforms for mass validation and audit workflows  
+- 🔹 Contributions to academic and educational software
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonfuentesp&show_icons=true&count_private=true&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfuentesp&layout=compact&theme=dark&hide=html" height="165"/>
+</p>
+
+---
+
+> ⚡ *"Code with purpose, build with vision."*  
+> Let's connect and build something impactful!
 
