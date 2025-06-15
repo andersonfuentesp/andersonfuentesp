@@ -1,59 +1,85 @@
-<h1 align="center">👋 Hello There, I'm Anderson Fuentes</h1>
+<h1 align="center">👋 Hello, I'm Anderson Fuentes</h1>
+<p align="center">Software Developer | Automation & AI Enthusiast | Tech Consultant</p>
 
 <p align="center">
   <a href="https://github.com/andersonfuentesp">
-    <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-VISIT-blue?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/andersonfuentes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:anderson.fuentes@ieee.org">
-    <img src="https://img.shields.io/badge/Email-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:andersonfuent@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CONTACT-yellow?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-🎯 **About Me**  
-I'm a Software Developer and technology enthusiast passionate about digital transformation and smart automation. I’ve led and contributed to projects involving full-stack development, automation tools, and AI integrations. I'm also a former IEEE student branch president and actively involved in tech education initiatives.
+## 💼 About Me
 
-I enjoy solving complex problems, working on scalable software projects, and exploring emerging technologies.
+I'm a passionate **Software Developer** and **Technology Consultant** with hands-on experience in building **automation systems, AI-driven tools, and full-stack applications** for business transformation.
 
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Frontend**: HTML, CSS, JavaScript, Tkinter, Java Swing
-- **Backend**: Python, PHP, Java, MySQL, SQLite
-- **Frameworks**: Laravel, Flask, Django, Spring Boot
-- **Data & AI**: Pandas, NumPy, Matplotlib, OpenCV, scikit-learn
-- **Automation Tools**: VBA, Selenium, UIPath (concepts)
-- **Databases**: MySQL, PostgreSQL, SQL Server
-- **Version Control**: Git, GitHub
-- **Other Tools**: Visual Studio, Jupyter, Postman
+I specialize in creating scalable, high-performance digital solutions for complex challenges. My work spans across automation, cloud computing, AI/ML, and modern software architecture.
 
 ---
 
-## 🚀 Projects & Areas of Focus
+## ⚙️ Core Competencies
 
-- 🔹 Development of automation tools for process optimization  
-- 🔹 Data analysis & visualization platforms  
-- 🔹 Backend APIs and system integrations  
-- 🔹 Intelligent document processing and classification  
-- 🔹 Internal platforms for mass validation and audit workflows  
-- 🔹 Contributions to academic and educational software
+### 🧠 AI, Machine Learning & Computer Vision
+- **TensorFlow**, **scikit-learn**, **OpenCV**, **Spark MLlib**
+
+### 🤖 Automation & RPA
+- **UiPath**, **IBM BPM/Modeler**, **Power Automate**
+
+### 🖥 Full‑Stack Development
+- **.NET C#**, **Python**, **Laravel**, **Django**,  
+  **React**, **Node.js**, **TypeScript**
+
+### 🛢 Databases
+- **SQL Server**, **MySQL**, **PostgreSQL**, **Redis**
+
+### ☁ Cloud & Architecture
+- **Azure**, **AWS**, **Google Cloud**, **Serverless Functions**
+
+### 🔐 Security & Compliance
+- **ISO 27001**, **OWASP Top 10**
+
+### 🔧 DevOps, APIs & Microservices
+- **REST**, **GraphQL**, **Swagger/OpenAPI**,  
+  **Docker**, **Kubernetes**, **CI/CD Pipelines**
+
+### 📊 Project & Enterprise Architecture
+- **Scrum**, **PMBOK**, **Kanban**, **TOGAF**
+
+---
+
+## 🚀 Current Focus
+
+- Developing **end-to-end automation platforms** integrated with AI
+- Designing **resilient microservice architectures** in the cloud
+- Building **interactive dashboards** and internal tools for teams
+- Leveraging **DevOps and CI/CD** for delivery at scale
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonfuentesp&show_icons=true&count_private=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfuentesp&layout=compact&theme=dark&hide=html" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonfuentesp&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfuentesp&layout=compact&theme=dark&hide=html" alt="Top Languages" />
 </p>
 
 ---
 
-> ⚡ *"Code with purpose, build with vision."*  
-> Let's connect and build something impactful!
+## 🌐 Let's Connect
 
+If you're interested in collaborating, building innovative tools, or simply talking tech —  
+📩 Reach me at: **[andersonfuent@gmail.com](mailto:andersonfuent@gmail.com)**  
+🌎 Or connect via [**LinkedIn**](https://www.linkedin.com/in/andersonfuentes/)
+
+---
+
+🔍 *“Transforming ideas into scalable digital solutions — one line of code at a time.”*
